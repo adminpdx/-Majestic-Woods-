@@ -5,6 +5,7 @@ MAJESTIC WOODS SOUTH ASSOCIATION, LTD
 AND
 COVENANTS AND RESTRICTIONS OF 
 MAJESTIC WOODS SOUTH SUBDIVISION
+
 Majestic Woods South Association, Ltd (hereinafter "Association"), being a duly 
 organized Wisconsin non-stock corporation, does hereby make and declare these to be the By- 
 Laws of said corporation, and the Covenants and Restrictions applicable to each and every Lot, 
@@ -13,13 +14,16 @@ Unit or Parcel representing membership therein, and Majestic Woods, LLC (hereina
 Subdivision and as owner of Units One (1) through Nine (9) of the plat of Majestic Woods South 
 Condominiums does hereby make and declare the Covenants and Restrictions herein to be 
 covenants and restrictions running with said Lots, Units and premises.
+
 I. MEMBERS.
-A.                         The members of the Association shall be the owners of each Lot in the platted 
-subdivision of Majestic Woods South and the owners of each condominium Unit in the 
-Majestic Woods South Condominium plat, both plats being located in the Town of Eau 
-Galle, County of Dunn, State of Wisconsin.
-B.                        Hereinafter any reference to “Subdivision" is a reference to the Majestic Woods South 
-Subdivision in the Town of Eau Galle, County of Dunn, State of Wisconsin. Any 
+
+A. The members of the Association shall be the owners of each Lot in the platted 
+   subdivision of Majestic Woods South and the owners of each condominium Unit in the 
+   Majestic Woods South Condominium plat, both plats being located in the Town of Eau 
+   Galle, County of Dunn, State of Wisconsin.
+
+B. Hereinafter any reference to “Subdivision" is a reference to the Majestic Woods South 
+   Subdivision in the Town of Eau Galle, County of Dunn, State of Wisconsin. Any 
 reference to “Lot" is a reference to a Lot in said Subdivision. Any reference to 
 “Condominium” is a reference to the Majestic Woods South Condominium Plat in the 
 Town of Eau Galle. County of Dunn, State of Wisconsin. Any reference to “Unit” is a 
