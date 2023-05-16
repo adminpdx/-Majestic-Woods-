@@ -1,6 +1,6 @@
-Comprehensive Project Management of this 2023 Home Building Project.
+Comprehensive Project Management for Majestic Woods South Association, LTD..
 
-* An ALL text format of original By-Laws and CCR's for Majestic Woods South Association, LTD.
+* An ALL text format of original By-Laws and CCR's.
 
 * Arch. CCRs applicable to lot # 37 ONLY.  
 
