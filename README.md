@@ -1,4 +1,4 @@
-Comprehensive Project Management for Majestic Woods South Association, LTD..
+Comprehensive Project Management for Majestic Woods South Association, LTD.
 
 * An ALL text format of original By-Laws and CCR's.
 
